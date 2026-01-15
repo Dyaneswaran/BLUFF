@@ -1,5 +1,9 @@
 # Bluff Card Game (Java)
 
+This application was built as my `CS-GY 9053 Introduction to Java` Final Project.
+
+---
+
 Bluff Card Game is a **1v1 turn-based card game** built in **Java** with **Swing GUI**, where players try to win by discarding all their cards — using strategy, deception, and well-timed bluff calls.
 
 This project includes:
